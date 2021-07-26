@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-🔭I’m Xuchen Wang and currently a college student majoring in business adminstration. 
+🔭I’m Xuchen Wang and currently a college student majoring in Accounting with a concentration in MIS
 
 🌱 I’m currently learning Python, and some HTML and CSS, and I's still new to coding and programming, so hope I could learn more here
 
