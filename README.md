@@ -2,11 +2,11 @@
 
 🔭I’m Xuchen Wang and currently a college student majoring in Accounting with a concentration in MIS
 
-🌱 I’m currently learning Python, and some HTML and CSS, and I's still new to coding and programming, so hope I could learn more here
+🌱 Love Python, and now is learning HTML, CSS, JS. Coding and programming help me to open to new ideas and solutions, so I really enjoy this learning experience
 
 📫 How to reach me: you can reach me via my email 
 
-⚡ Fun fact: I'm learning PS right now :) 
+⚡ Fun fact: Have two laptops :) 
 
 😄 Hope everyone doing well! 
 <!--
@@ -14,8 +14,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Xuchen Wang and currently a college student majoring in business adminstration. 
-- 🌱 I’m currently learning Python, and some HTML and CSS, and I's still new to coding and programming, so hope I could learn more here
+- 🔭 I’m Xuchen Wang and currently a college student majoring in Accounting. 
+- 🌱 Love Python, and now is learning HTML, CSS, JS. Coding and programming help me to open to new ideas and solutions, so I really enjoy this learning experience
 - 📫 How to reach me: you can reach me via my email 
 - ⚡ Fun fact: nothing.... 
 - 😄 Hope everyone doing well! 
